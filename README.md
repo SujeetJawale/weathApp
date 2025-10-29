@@ -1,7 +1,7 @@
 ![BE MY VOICE (1)-min](https://github.com/user-attachments/assets/83bebb03-b8e1-4cc5-a226-c11343349cd9)
 
 # ForcastNow 🌤️  
-### &nbsp;&nbsp;[🔗 Live Demo](https://weatherappreact-441809.uw.r.appspot.com/)
+
 
 A modern, responsive **Weather App** built with **React** for the frontend and deployed on a cloud platform. This project was developed as the **final project for a course submission** and leverages real-time weather data from **Tomorrow.io API** to provide accurate weather forecasts.
 
