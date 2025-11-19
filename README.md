@@ -29,6 +29,15 @@ A modern, responsive **Weather App** built with **React** for the frontend and d
   - Twitter (X) API (Tweet Sharing)
 - **Database**: MongoDB Atlas (For storing favorite locations)
 
+## 🛠️ Demo Video
+### Desktop:
+https://github.com/user-attachments/assets/ade5e43b-835c-4638-9dad-adb92069637a
+
+### Mobile
+https://github.com/user-attachments/assets/ab4b7b48-d7ff-444e-8b47-a70b324bd9cd
+
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
